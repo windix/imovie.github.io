@@ -1,0 +1,5 @@
+# robots.txt 
+User-agent: *
+Disallow: /donation/
+Disallow: /jian.dan.shuo.ming/
+Sitemap: http://aimovie.me/sitemap.xml
